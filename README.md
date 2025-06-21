@@ -1,4 +1,4 @@
-# 🌾 Annadata-New
+# 🌾 Annadaata
 
 > Empowering the next generation of farmers with modern agricultural solutions
 
